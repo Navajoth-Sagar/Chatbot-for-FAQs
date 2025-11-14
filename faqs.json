@@ -1,0 +1,18 @@
+[
+  {
+    "question": "What is your return policy?",
+    "answer": "You can return any product within 30 days of purchase with a valid receipt."
+  },
+  {
+    "question": "Do you offer international shipping?",
+    "answer": "Yes, we offer international shipping to most countries with applicable charges."
+  },
+  {
+    "question": "How can I track my order?",
+    "answer": "You can track your order through the tracking link sent to your email."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "We accept credit cards, debit cards, UPI, net banking, and PayPal."
+  }
+]
